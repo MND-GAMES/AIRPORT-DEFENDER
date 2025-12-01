@@ -1,0 +1,27 @@
+AUTHORSHIP.txt
+
+Project Title: Airspace Defender
+Project Type: HTML5 Game
+First Public Release: Timestamped on GitHub
+
+Author & Copyright Holder:
+Mindaugas Leliuga (MND Games)
+Email: mndgza@gmail.com
+
+This file exists to publicly timestamp and declare authorship and ownership of the original
+game source code, gameplay design, assets and intellectual property contained in this repository.
+
+The creator, Mindaugas Leliuga (MND Games), retains full ownership and exclusive rights to:
+- the game concept and design
+- game source code
+- game mechanics and balance system
+- visual assets, sounds, texts and UI materials
+- branding and game name "Airspace Defender"
+
+This project may not be copied, modified, redistributed or used commercially, in full or in part,
+without explicit written permission from the author.
+
+GitHub serves as proof of prior creation and publication.
+This commit establishes legal authorship and ownership.
+
+© 2025 Mindaugas Leliuga — All rights reserved.
